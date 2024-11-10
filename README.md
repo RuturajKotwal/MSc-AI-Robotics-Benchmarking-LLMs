@@ -37,3 +37,4 @@ We use the COCO (Common Objects in Context) dataset for training the models. The
 
 - Thanks to Hugging Face for their Transformers library and pre-trained models.
 - The COCO dataset is used under its respective license terms.
+- Test acknowledgement.
